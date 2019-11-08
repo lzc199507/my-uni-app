@@ -61,6 +61,8 @@
 		flex-direction: column;
 		background-color: #efeff4;
 		padding: 20upx;
+		position: relative;
+		overflow: hidden;
 	}
 
 	.input-group {
